@@ -6,7 +6,6 @@ public class Ragdoll : MonoBehaviour
 {
     [SerializeField] GameObject pref_Player; 
     [SerializeField] List<Rigidbody> rbs = new List<Rigidbody>();
-    
 
     // Start is called before the first frame update
     void Start()
