@@ -8,10 +8,17 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] GameObject pref_ragdoll;
 
+    Animator anim;
+
     // Start is called before the first frame update
     void Start()
     {
-
+        Camera.main.transform.parent = gameObject.transform;
+        Camera.main.transform.position = transform.position + (transform.forward * 2.0f) + new Vector3(0.0f, 1.5f, 0.0f);
+        Camera.main.transform.rotation = transform.rotation;
+        Camera.main.transform.Rotate(Vector3.up, 180);
+        anim = GetComponentInChildren<Animator>();
+        anim.SetTrigger("Stand");
     }
 
     // Update is called once per frame
@@ -29,7 +36,9 @@ public class PlayerMovement : MonoBehaviour
 
    void Launch()
     {
-        Destroy(gameObject);
         GameObject ragdoll = Instantiate(pref_ragdoll, transform.position, transform.rotation);
+        Camera.main.transform.parent = null;
+        Destroy(gameObject);
+        
     }
 }

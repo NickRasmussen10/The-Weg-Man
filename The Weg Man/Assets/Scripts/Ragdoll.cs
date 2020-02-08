@@ -11,6 +11,7 @@ public class Ragdoll : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Camera.main.transform.parent = rbs[0].gameObject.transform;
         Launch();
     }
 
@@ -25,15 +26,16 @@ public class Ragdoll : MonoBehaviour
         foreach (Rigidbody rb in rbs)
         {
             Debug.Log(rb);
-            rb.AddForce(-transform.forward * Random.Range(15.0f, 20.0f), ForceMode.Impulse);
+            rb.AddForce(-transform.forward * Random.Range(30.0f, 40.0f), ForceMode.Impulse);
         }
         StartCoroutine(RespawnPlayer());
     }
 
     IEnumerator RespawnPlayer()
     {
-        yield return new WaitForSeconds(1.5f);
+        yield return new WaitForSeconds(2.0f);
         GameObject player = Instantiate(pref_Player, rbs[0].transform.position, Quaternion.identity);
+        Camera.main.transform.parent = null;
         Destroy(gameObject);
     }
 }
