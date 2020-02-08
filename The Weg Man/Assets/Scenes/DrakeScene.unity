@@ -196,7 +196,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 521c1d2ea014271479067ced5e16de0f,
         type: 3}
       propertyPath: m_Name
-      value: shelf (4)
+      value: Aisle 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 521c1d2ea014271479067ced5e16de0f, type: 3}
@@ -275,7 +275,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 521c1d2ea014271479067ced5e16de0f,
         type: 3}
       propertyPath: m_Name
-      value: shelf (6)
+      value: Aisle 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 521c1d2ea014271479067ced5e16de0f, type: 3}
@@ -354,7 +354,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 521c1d2ea014271479067ced5e16de0f,
         type: 3}
       propertyPath: m_Name
-      value: shelf (5)
+      value: Aisle 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 521c1d2ea014271479067ced5e16de0f, type: 3}
@@ -677,7 +677,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 521c1d2ea014271479067ced5e16de0f,
         type: 3}
       propertyPath: m_Name
-      value: shelf (8)
+      value: Aisle 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 521c1d2ea014271479067ced5e16de0f, type: 3}
@@ -850,7 +850,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 521c1d2ea014271479067ced5e16de0f,
         type: 3}
       propertyPath: m_Name
-      value: shelf (7)
+      value: Aisle 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 521c1d2ea014271479067ced5e16de0f, type: 3}
