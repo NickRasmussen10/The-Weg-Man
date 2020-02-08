@@ -19,6 +19,7 @@ public class FruitCollide : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log("pog");
         if(other.gameObject.tag == "WegMan")
         {
             other.gameObject.GetComponent<PlayerManager>().AddFood(fruitName);
