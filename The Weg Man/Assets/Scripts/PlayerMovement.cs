@@ -25,7 +25,15 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         //transform.Translate(Input.GetAxis("Horizontal") * Time.deltaTime * speed, 0.0f, Input.GetAxis("Vertical") * Time.deltaTime * speed);
-        transform.Rotate(Vector3.down, Input.GetAxis("Horizontal"));
+        transform.Rotate(Vector3.down, -Input.GetAxis("Horizontal"));
+        if (Mathf.Abs(Input.GetAxis("Horizontal")) > 0.0f)
+        {
+            anim.SetBool("Rotate", true);
+        }
+        else
+        {
+            anim.SetBool("Rotate", false);
+        }
 
         if (Input.GetButtonDown("Jump"))
         {
