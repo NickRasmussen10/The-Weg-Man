@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: c7994f6bc31a24045b8886e3084a0cee
   - enabled: 1
+    path: Assets/Scenes/TechnicallySponsoredByWegmans.unity
+    guid: 83b72423285c441428e8ba7ebb567a22
+  - enabled: 1
     path: Assets/Scenes/NickSceneButThisTimeHeDoesntFuckWithTheCamera.unity
     guid: e5cdb28e946c6414ababf5a0e8a90050
   m_configObjects: {}
