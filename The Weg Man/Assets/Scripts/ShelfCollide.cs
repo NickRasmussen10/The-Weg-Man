@@ -24,6 +24,7 @@ public class ShelfCollide : MonoBehaviour
         if(soundTimer >= 4.0f)
         {
             startTimer = false;
+            soundTimer = 0.0f;
         }
     }
 
