@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Timer : MonoBehaviour
 {
@@ -12,5 +13,10 @@ public class Timer : MonoBehaviour
     {
         timeLeft -= Time.deltaTime; // decrease the amount of time left
         timerText.text = "Time: " + timeLeft.ToString("F0");    // cast timeLeft to string with no decimal
+
+        if(timeLeft <= 0)
+        {
+            SceneManager.LoadScene("LoseScene");
+        }
     }
 }
