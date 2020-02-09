@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using System;
 
 public class SpawnFood : MonoBehaviour
@@ -8,6 +9,7 @@ public class SpawnFood : MonoBehaviour
     public GameObject[] foodList;
     public GameObject[] spawnLocations;
     public List<GameObject> shoppingList;
+    public Text listText;
     private GameObject foodToAdd;
     // Start is called before the first frame update
     void Start()
@@ -31,6 +33,7 @@ public class SpawnFood : MonoBehaviour
                 if(!shoppingList.Contains(foodToAdd))   // check if the food is not already in the shoppingList
                 {
                     shoppingList.Add(foodToAdd);    // if the food is not in the list, add it to the shoppingList
+                    listText.text += "\n" + foodToAdd.name;
                 }
             }
 
