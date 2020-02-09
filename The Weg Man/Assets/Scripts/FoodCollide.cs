@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FruitCollide : MonoBehaviour
+public class FoodCollide : MonoBehaviour
 {
-    [SerializeField] private string fruitName;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,7 +21,9 @@ public class FruitCollide : MonoBehaviour
         Debug.Log("pog");
         if(other.gameObject.tag == "WegMan")
         {
-            other.gameObject.GetComponent<PlayerManager>().AddFood(fruitName);
+            Debug.Log("ahaa ha");
+            other.gameObject.GetComponent<PlayerManager>().AddFood(gameObject.name);
+            Debug.Log("GAMEOBJECT NAME " + gameObject.name);
             Destroy(gameObject);
         }
     }

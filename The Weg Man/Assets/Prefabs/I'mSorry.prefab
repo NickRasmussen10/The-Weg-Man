@@ -10,9 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2997915094201295813}
   - component: {fileID: 2997915094201295812}
+  - component: {fileID: 9098235293873958857}
   m_Layer: 0
   m_Name: I'mSorry
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47,6 +48,19 @@ MonoBehaviour:
   speed: 1
   pref_ragdoll: {fileID: 8111193979269114632, guid: 327195c13aac4dc458bb13a0e27bace5,
     type: 3}
+--- !u!114 &9098235293873958857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2997915094201295811}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &2997915094223814729
 GameObject:
   m_ObjectHideFlags: 0
