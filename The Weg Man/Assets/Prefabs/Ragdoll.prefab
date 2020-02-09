@@ -9,9 +9,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691616}
+  - component: {fileID: 6950225940486583110}
   m_Layer: 0
   m_Name: LeftEyebrowMiddleAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31,6 +32,19 @@ Transform:
   m_Father: {fileID: 8111193979268691618}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6950225940486583110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114498
 GameObject:
   m_ObjectHideFlags: 0
@@ -40,9 +54,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691618}
+  - component: {fileID: 3867015607149643776}
   m_Layer: 0
   m_Name: LeftEyebrowMiddle
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -62,6 +77,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3867015607149643776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114500
 GameObject:
   m_ObjectHideFlags: 0
@@ -71,9 +99,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691620}
+  - component: {fileID: 1010892893700172058}
   m_Layer: 0
   m_Name: LeftEyebrowLowAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -93,6 +122,19 @@ Transform:
   m_Father: {fileID: 8111193979268691622}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1010892893700172058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114502
 GameObject:
   m_ObjectHideFlags: 0
@@ -102,9 +144,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691622}
+  - component: {fileID: 3242677831658547560}
   m_Layer: 0
   m_Name: LeftEyebrowLow
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -124,6 +167,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3242677831658547560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114504
 GameObject:
   m_ObjectHideFlags: 0
@@ -133,9 +189,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691624}
+  - component: {fileID: 6550380637577493647}
   m_Layer: 0
   m_Name: LeftEyeAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -155,6 +212,19 @@ Transform:
   m_Father: {fileID: 8111193979268691626}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6550380637577493647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114506
 GameObject:
   m_ObjectHideFlags: 0
@@ -164,9 +234,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691626}
+  - component: {fileID: 1998187333037482839}
   m_Layer: 0
   m_Name: LeftEye
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -189,6 +260,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1998187333037482839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114508
 GameObject:
   m_ObjectHideFlags: 0
@@ -198,9 +282,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691628}
+  - component: {fileID: 8203865562124872676}
   m_Layer: 0
   m_Name: LeftEarAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -220,6 +305,19 @@ Transform:
   m_Father: {fileID: 8111193979268691630}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8203865562124872676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114510
 GameObject:
   m_ObjectHideFlags: 0
@@ -229,9 +327,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691630}
+  - component: {fileID: 8841931816970302289}
   m_Layer: 0
   m_Name: LeftEar
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -251,6 +350,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8841931816970302289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114512
 GameObject:
   m_ObjectHideFlags: 0
@@ -260,9 +372,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691632}
+  - component: {fileID: 8913633061678595433}
   m_Layer: 0
   m_Name: LeftCheekAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -282,6 +395,19 @@ Transform:
   m_Father: {fileID: 8111193979268691634}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8913633061678595433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114514
 GameObject:
   m_ObjectHideFlags: 0
@@ -291,9 +417,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691634}
+  - component: {fileID: 4802645457165390640}
   m_Layer: 0
   m_Name: LeftCheek
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -313,6 +440,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4802645457165390640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114516
 GameObject:
   m_ObjectHideFlags: 0
@@ -322,9 +462,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691636}
+  - component: {fileID: 3365626731643629025}
   m_Layer: 0
   m_Name: LeftArmAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -343,6 +484,19 @@ Transform:
   m_Father: {fileID: 8111193979268691638}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3365626731643629025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114516}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114518
 GameObject:
   m_ObjectHideFlags: 0
@@ -355,9 +509,10 @@ GameObject:
   - component: {fileID: 8111193977813644570}
   - component: {fileID: 8111193977813644572}
   - component: {fileID: 8111193977813644571}
+  - component: {fileID: 5943005266414409800}
   m_Layer: 0
   m_Name: LeftArm
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -453,6 +608,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &5943005266414409800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114520
 GameObject:
   m_ObjectHideFlags: 0
@@ -464,9 +632,10 @@ GameObject:
   - component: {fileID: 8111193979268691640}
   - component: {fileID: 8111193978695248084}
   - component: {fileID: 8111193978695248085}
+  - component: {fileID: 763496148132060971}
   m_Layer: 0
   m_Name: Hips
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -517,6 +686,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.31369227, y: 0.4137758, z: 0.28773612}
   m_Center: {x: -0.40104643, y: -0.000000059604645, z: -0.05800402}
+--- !u!114 &763496148132060971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114522
 GameObject:
   m_ObjectHideFlags: 0
@@ -526,9 +708,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691642}
+  - component: {fileID: 1296007605336133860}
   m_Layer: 0
   m_Name: HeadAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -548,6 +731,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1296007605336133860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114524
 GameObject:
   m_ObjectHideFlags: 0
@@ -560,9 +756,10 @@ GameObject:
   - component: {fileID: 8111193978325949171}
   - component: {fileID: 8111193978325949172}
   - component: {fileID: 8111193978325949170}
+  - component: {fileID: 5823014532291274506}
   m_Layer: 0
   m_Name: Head
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -680,6 +877,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &5823014532291274506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114526
 GameObject:
   m_ObjectHideFlags: 0
@@ -689,9 +899,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691646}
+  - component: {fileID: 7098131916543071534}
   m_Layer: 0
   m_Name: Global
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -711,6 +922,19 @@ Transform:
   m_Father: {fileID: 8111193979268691962}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7098131916543071534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114560
 GameObject:
   m_ObjectHideFlags: 0
@@ -720,9 +944,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691680}
+  - component: {fileID: 603345571263086611}
   m_Layer: 0
   m_Name: LeftLipsInferiorAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -742,6 +967,19 @@ Transform:
   m_Father: {fileID: 8111193979268691682}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &603345571263086611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114562
 GameObject:
   m_ObjectHideFlags: 0
@@ -751,9 +989,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691682}
+  - component: {fileID: 5172092736698201396}
   m_Layer: 0
   m_Name: LeftLipsInferior
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -773,6 +1012,19 @@ Transform:
   m_Father: {fileID: 8111193979268691750}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5172092736698201396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114564
 GameObject:
   m_ObjectHideFlags: 0
@@ -782,9 +1034,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691684}
+  - component: {fileID: 1337233136218351382}
   m_Layer: 0
   m_Name: LeftLipsAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -804,6 +1057,19 @@ Transform:
   m_Father: {fileID: 8111193979268691686}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1337233136218351382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114566
 GameObject:
   m_ObjectHideFlags: 0
@@ -813,9 +1079,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691686}
+  - component: {fileID: 131314220102389836}
   m_Layer: 0
   m_Name: LeftLips
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -835,6 +1102,19 @@ Transform:
   m_Father: {fileID: 8111193979268691750}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &131314220102389836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114568
 GameObject:
   m_ObjectHideFlags: 0
@@ -844,9 +1124,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691688}
+  - component: {fileID: 8411242649169373379}
   m_Layer: 0
   m_Name: LeftLegAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -866,6 +1147,19 @@ Transform:
   m_Father: {fileID: 8111193979268691690}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8411242649169373379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114570
 GameObject:
   m_ObjectHideFlags: 0
@@ -878,9 +1172,10 @@ GameObject:
   - component: {fileID: 8111193977420144909}
   - component: {fileID: 8111193977420144910}
   - component: {fileID: 8111193977420144908}
+  - component: {fileID: 2709836430331281127}
   m_Layer: 0
   m_Name: LeftLeg
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -976,6 +1271,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &2709836430331281127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114572
 GameObject:
   m_ObjectHideFlags: 0
@@ -985,9 +1293,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691692}
+  - component: {fileID: 814719506049445930}
   m_Layer: 0
   m_Name: LeftInnerBreast
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1006,6 +1315,19 @@ Transform:
   m_Father: {fileID: 8111193979268691658}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &814719506049445930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114574
 GameObject:
   m_ObjectHideFlags: 0
@@ -1015,9 +1337,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691694}
+  - component: {fileID: 536849331941621903}
   m_Layer: 0
   m_Name: LeftHandFinger05_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1036,6 +1359,19 @@ Transform:
   m_Father: {fileID: 8111193979268691696}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &536849331941621903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114576
 GameObject:
   m_ObjectHideFlags: 0
@@ -1045,9 +1381,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691696}
+  - component: {fileID: 7109523699615672824}
   m_Layer: 0
   m_Name: LeftHandFinger05_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1067,6 +1404,19 @@ Transform:
   m_Father: {fileID: 8111193979268691698}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7109523699615672824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114578
 GameObject:
   m_ObjectHideFlags: 0
@@ -1076,9 +1426,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691698}
+  - component: {fileID: 4812390980416145478}
   m_Layer: 0
   m_Name: LeftHandFinger05_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1098,6 +1449,19 @@ Transform:
   m_Father: {fileID: 8111193979268691596}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4812390980416145478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114580
 GameObject:
   m_ObjectHideFlags: 0
@@ -1107,9 +1471,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691700}
+  - component: {fileID: 937463179284318884}
   m_Layer: 0
   m_Name: LeftHandFinger04_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1128,6 +1493,19 @@ Transform:
   m_Father: {fileID: 8111193979268691702}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &937463179284318884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114582
 GameObject:
   m_ObjectHideFlags: 0
@@ -1137,9 +1515,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691702}
+  - component: {fileID: 8528551033831664517}
   m_Layer: 0
   m_Name: LeftHandFinger04_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1159,6 +1538,19 @@ Transform:
   m_Father: {fileID: 8111193979268691704}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8528551033831664517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114584
 GameObject:
   m_ObjectHideFlags: 0
@@ -1168,9 +1560,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691704}
+  - component: {fileID: 7856703319970138733}
   m_Layer: 0
   m_Name: LeftHandFinger04_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1190,6 +1583,19 @@ Transform:
   m_Father: {fileID: 8111193979268691596}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7856703319970138733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114584}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114586
 GameObject:
   m_ObjectHideFlags: 0
@@ -1199,9 +1605,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691706}
+  - component: {fileID: 4190037128498622500}
   m_Layer: 0
   m_Name: LeftHandFinger03_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1220,6 +1627,19 @@ Transform:
   m_Father: {fileID: 8111193979268691708}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4190037128498622500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114588
 GameObject:
   m_ObjectHideFlags: 0
@@ -1229,9 +1649,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691708}
+  - component: {fileID: 8647850661430758373}
   m_Layer: 0
   m_Name: LeftHandFinger03_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1251,6 +1672,19 @@ Transform:
   m_Father: {fileID: 8111193979268691710}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8647850661430758373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114590
 GameObject:
   m_ObjectHideFlags: 0
@@ -1260,9 +1694,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691710}
+  - component: {fileID: 3492115854822248206}
   m_Layer: 0
   m_Name: LeftHandFinger03_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1282,6 +1717,19 @@ Transform:
   m_Father: {fileID: 8111193979268691596}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3492115854822248206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114592
 GameObject:
   m_ObjectHideFlags: 0
@@ -1291,9 +1739,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691584}
+  - component: {fileID: 7625744078887419163}
   m_Layer: 0
   m_Name: LeftHandFinger02_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1312,6 +1761,19 @@ Transform:
   m_Father: {fileID: 8111193979268691586}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7625744078887419163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114594
 GameObject:
   m_ObjectHideFlags: 0
@@ -1321,9 +1783,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691586}
+  - component: {fileID: 7605592287448715884}
   m_Layer: 0
   m_Name: LeftHandFinger02_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1343,6 +1806,19 @@ Transform:
   m_Father: {fileID: 8111193979268691588}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7605592287448715884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114596
 GameObject:
   m_ObjectHideFlags: 0
@@ -1352,9 +1828,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691588}
+  - component: {fileID: 5611614729747611034}
   m_Layer: 0
   m_Name: LeftHandFinger02_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1374,6 +1851,19 @@ Transform:
   m_Father: {fileID: 8111193979268691596}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5611614729747611034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114598
 GameObject:
   m_ObjectHideFlags: 0
@@ -1383,9 +1873,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691590}
+  - component: {fileID: 7039083398328116362}
   m_Layer: 0
   m_Name: LeftHandFinger01_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1404,6 +1895,19 @@ Transform:
   m_Father: {fileID: 8111193979268691592}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7039083398328116362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114600
 GameObject:
   m_ObjectHideFlags: 0
@@ -1413,9 +1917,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691592}
+  - component: {fileID: 3226706785517651477}
   m_Layer: 0
   m_Name: LeftHandFinger01_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1435,6 +1940,19 @@ Transform:
   m_Father: {fileID: 8111193979268691594}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3226706785517651477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114602
 GameObject:
   m_ObjectHideFlags: 0
@@ -1444,9 +1962,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691594}
+  - component: {fileID: 5723494237310326817}
   m_Layer: 0
   m_Name: LeftHandFinger01_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1466,6 +1985,19 @@ Transform:
   m_Father: {fileID: 8111193979268691596}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5723494237310326817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114604
 GameObject:
   m_ObjectHideFlags: 0
@@ -1475,9 +2007,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691596}
+  - component: {fileID: 2582529307683550930}
   m_Layer: 0
   m_Name: LeftHand
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1501,6 +2034,19 @@ Transform:
   m_Father: {fileID: 8111193979268691606}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2582529307683550930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114606
 GameObject:
   m_ObjectHideFlags: 0
@@ -1510,9 +2056,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691598}
+  - component: {fileID: 3381165391447683571}
   m_Layer: 0
   m_Name: LeftGluteus
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1531,6 +2078,19 @@ Transform:
   m_Father: {fileID: 8111193979268691648}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3381165391447683571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114608
 GameObject:
   m_ObjectHideFlags: 0
@@ -1540,9 +2100,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691600}
+  - component: {fileID: 4328162639644044407}
   m_Layer: 0
   m_Name: LeftForeArmTwistAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1562,6 +2123,19 @@ Transform:
   m_Father: {fileID: 8111193979268691602}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4328162639644044407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114610
 GameObject:
   m_ObjectHideFlags: 0
@@ -1571,9 +2145,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691602}
+  - component: {fileID: 5339696366580199054}
   m_Layer: 0
   m_Name: LeftForeArmTwist
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1594,6 +2169,19 @@ Transform:
   m_Father: {fileID: 8111193979268691606}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5339696366580199054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114612
 GameObject:
   m_ObjectHideFlags: 0
@@ -1603,9 +2191,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691604}
+  - component: {fileID: 790551471105748100}
   m_Layer: 0
   m_Name: LeftForeArmAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1625,6 +2214,19 @@ Transform:
   m_Father: {fileID: 8111193979268691606}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &790551471105748100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114614
 GameObject:
   m_ObjectHideFlags: 0
@@ -1637,9 +2239,10 @@ GameObject:
   - component: {fileID: 8111193977315677104}
   - component: {fileID: 8111193977315677105}
   - component: {fileID: 8111193977315677119}
+  - component: {fileID: 2744643574482507800}
   m_Layer: 0
   m_Name: LeftForeArm
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1736,6 +2339,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &2744643574482507800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114616
 GameObject:
   m_ObjectHideFlags: 0
@@ -1745,9 +2361,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691608}
+  - component: {fileID: 715749137059657771}
   m_Layer: 0
   m_Name: LeftFoot
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1767,6 +2384,19 @@ Transform:
   m_Father: {fileID: 8111193979268691690}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &715749137059657771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114618
 GameObject:
   m_ObjectHideFlags: 0
@@ -1776,9 +2406,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691610}
+  - component: {fileID: 5402010738371360503}
   m_Layer: 0
   m_Name: LeftEyeGlobe
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1798,6 +2429,19 @@ Transform:
   m_Father: {fileID: 8111193979268691626}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5402010738371360503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114620
 GameObject:
   m_ObjectHideFlags: 0
@@ -1807,9 +2451,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691612}
+  - component: {fileID: 8011337161915715667}
   m_Layer: 0
   m_Name: LeftEyebrowUpAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1829,6 +2474,19 @@ Transform:
   m_Father: {fileID: 8111193979268691614}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8011337161915715667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114622
 GameObject:
   m_ObjectHideFlags: 0
@@ -1838,9 +2496,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691614}
+  - component: {fileID: 2708113467307827619}
   m_Layer: 0
   m_Name: LeftEyebrowUp
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1860,6 +2519,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2708113467307827619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114624
 GameObject:
   m_ObjectHideFlags: 0
@@ -1869,9 +2541,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691744}
+  - component: {fileID: 4945697608489426667}
   m_Layer: 0
   m_Name: NeckAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1890,6 +2563,19 @@ Transform:
   m_Father: {fileID: 8111193979268691746}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4945697608489426667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114626
 GameObject:
   m_ObjectHideFlags: 0
@@ -1899,9 +2585,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691746}
+  - component: {fileID: 6532643090376696349}
   m_Layer: 0
   m_Name: Neck
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1922,6 +2609,19 @@ Transform:
   m_Father: {fileID: 8111193979268691856}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6532643090376696349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114628
 GameObject:
   m_ObjectHideFlags: 0
@@ -1931,9 +2631,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691748}
+  - component: {fileID: 8709482542629861002}
   m_Layer: 0
   m_Name: MandibleAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1952,6 +2653,19 @@ Transform:
   m_Father: {fileID: 8111193979268691750}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8709482542629861002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114630
 GameObject:
   m_ObjectHideFlags: 0
@@ -1961,9 +2675,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691750}
+  - component: {fileID: 8282248212960671788}
   m_Layer: 0
   m_Name: Mandible
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1991,6 +2706,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8282248212960671788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114630}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114632
 GameObject:
   m_ObjectHideFlags: 0
@@ -2002,9 +2730,10 @@ GameObject:
   - component: {fileID: 8111193979268691752}
   - component: {fileID: 8111193979262317406}
   - component: {fileID: 8111193978645854054}
+  - component: {fileID: 939358503610258329}
   m_Layer: 0
   m_Name: Ragdoll
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2066,6 +2795,19 @@ MonoBehaviour:
   - {fileID: 8111193978388900296}
   - {fileID: 8111193977760790878}
   - {fileID: 8111193979103929458}
+--- !u!114 &939358503610258329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114634
 GameObject:
   m_ObjectHideFlags: 0
@@ -2075,9 +2817,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691754}
+  - component: {fileID: 5652284663035535446}
   m_Layer: 0
   m_Name: LowerBackBelly
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2096,6 +2839,19 @@ Transform:
   m_Father: {fileID: 8111193979268691756}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5652284663035535446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114636
 GameObject:
   m_ObjectHideFlags: 0
@@ -2105,9 +2861,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691756}
+  - component: {fileID: 1695181365132390504}
   m_Layer: 0
   m_Name: LowerBackAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2127,6 +2884,19 @@ Transform:
   m_Father: {fileID: 8111193979268691758}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1695181365132390504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114638
 GameObject:
   m_ObjectHideFlags: 0
@@ -2136,9 +2906,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691758}
+  - component: {fileID: 2812073762251167523}
   m_Layer: 0
   m_Name: LowerBack
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2159,6 +2930,19 @@ Transform:
   m_Father: {fileID: 8111193979268691640}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2812073762251167523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114640
 GameObject:
   m_ObjectHideFlags: 0
@@ -2168,9 +2952,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691760}
+  - component: {fileID: 453329791726812284}
   m_Layer: 0
   m_Name: LipsSuperiorAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2189,6 +2974,19 @@ Transform:
   m_Father: {fileID: 8111193979268691762}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &453329791726812284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114642
 GameObject:
   m_ObjectHideFlags: 0
@@ -2198,9 +2996,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691762}
+  - component: {fileID: 9221005728535877981}
   m_Layer: 0
   m_Name: LipsSuperior
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2220,6 +3019,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9221005728535877981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114644
 GameObject:
   m_ObjectHideFlags: 0
@@ -2229,9 +3041,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691764}
+  - component: {fileID: 6782444152040821358}
   m_Layer: 0
   m_Name: LipsInferiorAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2250,6 +3063,19 @@ Transform:
   m_Father: {fileID: 8111193979268691766}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6782444152040821358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114646
 GameObject:
   m_ObjectHideFlags: 0
@@ -2259,9 +3085,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691766}
+  - component: {fileID: 1298057512453777993}
   m_Layer: 0
   m_Name: LipsInferior
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2281,6 +3108,19 @@ Transform:
   m_Father: {fileID: 8111193979268691750}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1298057512453777993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114650
 GameObject:
   m_ObjectHideFlags: 0
@@ -2290,9 +3130,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691770}
+  - component: {fileID: 880154738384602564}
   m_Layer: 0
   m_Name: LeftUpperLidAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2311,6 +3152,19 @@ Transform:
   m_Father: {fileID: 8111193979268691772}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &880154738384602564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114652
 GameObject:
   m_ObjectHideFlags: 0
@@ -2320,9 +3174,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691772}
+  - component: {fileID: 7728419914898587894}
   m_Layer: 0
   m_Name: LeftUpperLid
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2342,6 +3197,19 @@ Transform:
   m_Father: {fileID: 8111193979268691626}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7728419914898587894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114654
 GameObject:
   m_ObjectHideFlags: 0
@@ -2351,9 +3219,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691774}
+  - component: {fileID: 6096263078829716532}
   m_Layer: 0
   m_Name: LeftUpLegAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2372,6 +3241,19 @@ Transform:
   m_Father: {fileID: 8111193979268691648}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6096263078829716532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114656
 GameObject:
   m_ObjectHideFlags: 0
@@ -2384,9 +3266,10 @@ GameObject:
   - component: {fileID: 8111193979049211908}
   - component: {fileID: 8111193979049211910}
   - component: {fileID: 8111193979049211909}
+  - component: {fileID: 7490831322858977982}
   m_Layer: 0
   m_Name: LeftUpLeg
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2483,6 +3366,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &7490831322858977982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114658
 GameObject:
   m_ObjectHideFlags: 0
@@ -2492,9 +3388,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691650}
+  - component: {fileID: 2581033273716559323}
   m_Layer: 0
   m_Name: LeftTrapezius
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2513,6 +3410,19 @@ Transform:
   m_Father: {fileID: 8111193979268691656}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2581033273716559323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114660
 GameObject:
   m_ObjectHideFlags: 0
@@ -2522,9 +3432,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691652}
+  - component: {fileID: 4174908707420449094}
   m_Layer: 0
   m_Name: LeftToeBase
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2543,6 +3454,19 @@ Transform:
   m_Father: {fileID: 8111193979268691608}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4174908707420449094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114662
 GameObject:
   m_ObjectHideFlags: 0
@@ -2552,9 +3476,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691654}
+  - component: {fileID: 3602925500174125558}
   m_Layer: 0
   m_Name: LeftShoulderAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2573,6 +3498,19 @@ Transform:
   m_Father: {fileID: 8111193979268691656}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3602925500174125558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114664
 GameObject:
   m_ObjectHideFlags: 0
@@ -2582,9 +3520,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691656}
+  - component: {fileID: 7468225665573572454}
   m_Layer: 0
   m_Name: LeftShoulder
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2606,6 +3545,19 @@ Transform:
   m_Father: {fileID: 8111193979268691856}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7468225665573572454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114666
 GameObject:
   m_ObjectHideFlags: 0
@@ -2615,9 +3567,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691658}
+  - component: {fileID: 4009794102161738260}
   m_Layer: 0
   m_Name: LeftOuterBreast
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2637,6 +3590,19 @@ Transform:
   m_Father: {fileID: 8111193979268691856}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4009794102161738260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114668
 GameObject:
   m_ObjectHideFlags: 0
@@ -2646,9 +3612,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691660}
+  - component: {fileID: 8265149732518962776}
   m_Layer: 0
   m_Name: LeftNoseAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2667,6 +3634,19 @@ Transform:
   m_Father: {fileID: 8111193979268691662}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8265149732518962776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114670
 GameObject:
   m_ObjectHideFlags: 0
@@ -2676,9 +3656,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691662}
+  - component: {fileID: 643233911334357296}
   m_Layer: 0
   m_Name: LeftNose
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2698,6 +3679,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &643233911334357296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114672
 GameObject:
   m_ObjectHideFlags: 0
@@ -2707,9 +3701,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691664}
+  - component: {fileID: 7707198546360868075}
   m_Layer: 0
   m_Name: LeftLowMaxilarAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2729,6 +3724,19 @@ Transform:
   m_Father: {fileID: 8111193979268691666}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7707198546360868075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114674
 GameObject:
   m_ObjectHideFlags: 0
@@ -2738,9 +3746,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691666}
+  - component: {fileID: 4859403701602902820}
   m_Layer: 0
   m_Name: LeftLowMaxilar
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2760,6 +3769,19 @@ Transform:
   m_Father: {fileID: 8111193979268691750}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4859403701602902820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114676
 GameObject:
   m_ObjectHideFlags: 0
@@ -2769,9 +3791,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691668}
+  - component: {fileID: 1271536380649170068}
   m_Layer: 0
   m_Name: LeftLowerLidAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2790,6 +3813,19 @@ Transform:
   m_Father: {fileID: 8111193979268691670}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1271536380649170068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114678
 GameObject:
   m_ObjectHideFlags: 0
@@ -2799,9 +3835,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691670}
+  - component: {fileID: 6556068309740493296}
   m_Layer: 0
   m_Name: LeftLowerLid
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2821,6 +3858,19 @@ Transform:
   m_Father: {fileID: 8111193979268691626}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6556068309740493296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114680
 GameObject:
   m_ObjectHideFlags: 0
@@ -2830,9 +3880,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691672}
+  - component: {fileID: 5996314074295734029}
   m_Layer: 0
   m_Name: LeftLowCheekAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2852,6 +3903,19 @@ Transform:
   m_Father: {fileID: 8111193979268691674}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5996314074295734029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114682
 GameObject:
   m_ObjectHideFlags: 0
@@ -2861,9 +3925,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691674}
+  - component: {fileID: 1638420124493358453}
   m_Layer: 0
   m_Name: LeftLowCheek
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2883,6 +3948,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1638420124493358453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114684
 GameObject:
   m_ObjectHideFlags: 0
@@ -2892,9 +3970,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691676}
+  - component: {fileID: 6981508758684550334}
   m_Layer: 0
   m_Name: LeftLipsSuperiorMiddleAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2913,6 +3992,19 @@ Transform:
   m_Father: {fileID: 8111193979268691678}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6981508758684550334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114686
 GameObject:
   m_ObjectHideFlags: 0
@@ -2922,9 +4014,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691678}
+  - component: {fileID: 7201256488687103483}
   m_Layer: 0
   m_Name: LeftLipsSuperiorMiddle
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2944,6 +4037,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7201256488687103483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114688
 GameObject:
   m_ObjectHideFlags: 0
@@ -2953,9 +4059,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691808}
+  - component: {fileID: 2561393229195545611}
   m_Layer: 0
   m_Name: RightHandFinger01_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2974,6 +4081,19 @@ Transform:
   m_Father: {fileID: 8111193979268691810}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2561393229195545611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114690
 GameObject:
   m_ObjectHideFlags: 0
@@ -2983,9 +4103,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691810}
+  - component: {fileID: 3915284038917299763}
   m_Layer: 0
   m_Name: RightHandFinger01_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3005,6 +4126,19 @@ Transform:
   m_Father: {fileID: 8111193979268691812}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3915284038917299763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114692
 GameObject:
   m_ObjectHideFlags: 0
@@ -3014,9 +4148,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691812}
+  - component: {fileID: 1102900968850989907}
   m_Layer: 0
   m_Name: RightHandFinger01_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3036,6 +4171,19 @@ Transform:
   m_Father: {fileID: 8111193979268691814}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1102900968850989907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114694
 GameObject:
   m_ObjectHideFlags: 0
@@ -3045,9 +4193,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691814}
+  - component: {fileID: 3093206080018123716}
   m_Layer: 0
   m_Name: RightHand
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3071,6 +4220,19 @@ Transform:
   m_Father: {fileID: 8111193979268691824}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3093206080018123716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114694}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114696
 GameObject:
   m_ObjectHideFlags: 0
@@ -3080,9 +4242,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691816}
+  - component: {fileID: 8890047472816780814}
   m_Layer: 0
   m_Name: RightGluteus
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3101,6 +4264,19 @@ Transform:
   m_Father: {fileID: 8111193979268691866}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8890047472816780814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114696}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114698
 GameObject:
   m_ObjectHideFlags: 0
@@ -3110,9 +4286,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691818}
+  - component: {fileID: 1743172120933989167}
   m_Layer: 0
   m_Name: RightForeArmTwistAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3132,6 +4309,19 @@ Transform:
   m_Father: {fileID: 8111193979268691820}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1743172120933989167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114700
 GameObject:
   m_ObjectHideFlags: 0
@@ -3141,9 +4331,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691820}
+  - component: {fileID: 7671142399214389379}
   m_Layer: 0
   m_Name: RightForeArmTwist
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3164,6 +4355,19 @@ Transform:
   m_Father: {fileID: 8111193979268691824}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7671142399214389379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114702
 GameObject:
   m_ObjectHideFlags: 0
@@ -3173,9 +4377,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691822}
+  - component: {fileID: 3769025298017609106}
   m_Layer: 0
   m_Name: RightForeArmAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3195,6 +4400,19 @@ Transform:
   m_Father: {fileID: 8111193979268691824}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3769025298017609106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114704
 GameObject:
   m_ObjectHideFlags: 0
@@ -3207,9 +4425,10 @@ GameObject:
   - component: {fileID: 8111193978388900296}
   - component: {fileID: 8111193978388900297}
   - component: {fileID: 8111193978388900279}
+  - component: {fileID: 5689777008886785940}
   m_Layer: 0
   m_Name: RightForeArm
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3306,6 +4525,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &5689777008886785940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114706
 GameObject:
   m_ObjectHideFlags: 0
@@ -3315,9 +4547,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691826}
+  - component: {fileID: 3338669236508257337}
   m_Layer: 0
   m_Name: RightFoot
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3337,6 +4570,19 @@ Transform:
   m_Father: {fileID: 8111193979268691780}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3338669236508257337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114708
 GameObject:
   m_ObjectHideFlags: 0
@@ -3346,9 +4592,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691828}
+  - component: {fileID: 2915647636566775146}
   m_Layer: 0
   m_Name: RightEyeGlobe
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3368,6 +4615,19 @@ Transform:
   m_Father: {fileID: 8111193979268691716}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2915647636566775146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114710
 GameObject:
   m_ObjectHideFlags: 0
@@ -3377,9 +4637,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691830}
+  - component: {fileID: 312698849299516542}
   m_Layer: 0
   m_Name: RightEyebrowUpAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3399,6 +4660,19 @@ Transform:
   m_Father: {fileID: 8111193979268691832}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &312698849299516542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114712
 GameObject:
   m_ObjectHideFlags: 0
@@ -3408,9 +4682,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691832}
+  - component: {fileID: 5399972527708534500}
   m_Layer: 0
   m_Name: RightEyebrowUp
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3430,6 +4705,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5399972527708534500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114714
 GameObject:
   m_ObjectHideFlags: 0
@@ -3439,9 +4727,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691834}
+  - component: {fileID: 142551894726226580}
   m_Layer: 0
   m_Name: RightEyebrowMiddleAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3461,6 +4750,19 @@ Transform:
   m_Father: {fileID: 8111193979268691836}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &142551894726226580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114716
 GameObject:
   m_ObjectHideFlags: 0
@@ -3470,9 +4772,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691836}
+  - component: {fileID: 7852063675305331247}
   m_Layer: 0
   m_Name: RightEyebrowMiddle
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3492,6 +4795,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7852063675305331247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114718
 GameObject:
   m_ObjectHideFlags: 0
@@ -3501,9 +4817,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691838}
+  - component: {fileID: 3487801365633196913}
   m_Layer: 0
   m_Name: RightEyebrowLowAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3523,6 +4840,19 @@ Transform:
   m_Father: {fileID: 8111193979268691712}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3487801365633196913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114720
 GameObject:
   m_ObjectHideFlags: 0
@@ -3532,9 +4862,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691712}
+  - component: {fileID: 2640724104492243844}
   m_Layer: 0
   m_Name: RightEyebrowLow
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3554,6 +4885,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2640724104492243844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114722
 GameObject:
   m_ObjectHideFlags: 0
@@ -3563,9 +4907,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691714}
+  - component: {fileID: 1556236170976330840}
   m_Layer: 0
   m_Name: RightEyeAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3585,6 +4930,19 @@ Transform:
   m_Father: {fileID: 8111193979268691716}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1556236170976330840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114722}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114724
 GameObject:
   m_ObjectHideFlags: 0
@@ -3594,9 +4952,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691716}
+  - component: {fileID: 2358393257765848825}
   m_Layer: 0
   m_Name: RightEye
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3619,6 +4978,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2358393257765848825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114726
 GameObject:
   m_ObjectHideFlags: 0
@@ -3628,9 +5000,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691718}
+  - component: {fileID: 6021030823500317252}
   m_Layer: 0
   m_Name: RightEarAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3650,6 +5023,19 @@ Transform:
   m_Father: {fileID: 8111193979268691720}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6021030823500317252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114728
 GameObject:
   m_ObjectHideFlags: 0
@@ -3659,9 +5045,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691720}
+  - component: {fileID: 3869061838205756502}
   m_Layer: 0
   m_Name: RightEar
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3681,6 +5068,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3869061838205756502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114730
 GameObject:
   m_ObjectHideFlags: 0
@@ -3690,9 +5090,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691722}
+  - component: {fileID: 1053741810614608079}
   m_Layer: 0
   m_Name: RightCheekAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3712,6 +5113,19 @@ Transform:
   m_Father: {fileID: 8111193979268691724}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1053741810614608079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114732
 GameObject:
   m_ObjectHideFlags: 0
@@ -3721,9 +5135,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691724}
+  - component: {fileID: 7965500499384062757}
   m_Layer: 0
   m_Name: RightCheek
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3743,6 +5158,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7965500499384062757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114734
 GameObject:
   m_ObjectHideFlags: 0
@@ -3752,9 +5180,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691726}
+  - component: {fileID: 2456123041894349829}
   m_Layer: 0
   m_Name: RightArmAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3773,6 +5202,19 @@ Transform:
   m_Father: {fileID: 8111193979268691728}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2456123041894349829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114736
 GameObject:
   m_ObjectHideFlags: 0
@@ -3785,9 +5227,10 @@ GameObject:
   - component: {fileID: 8111193979009848912}
   - component: {fileID: 8111193979009848914}
   - component: {fileID: 8111193979009848913}
+  - component: {fileID: 6563198610788429881}
   m_Layer: 0
   m_Name: RightArm
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3883,6 +5326,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &6563198610788429881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114738
 GameObject:
   m_ObjectHideFlags: 0
@@ -3892,9 +5348,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691730}
+  - component: {fileID: 6238957310773603603}
   m_Layer: 0
   m_Name: Position
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3914,6 +5371,19 @@ Transform:
   m_Father: {fileID: 8111193979268691646}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6238957310773603603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114740
 GameObject:
   m_ObjectHideFlags: 0
@@ -3923,9 +5393,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691732}
+  - component: {fileID: 871788603637200811}
   m_Layer: 0
   m_Name: NoseTopAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3944,6 +5415,19 @@ Transform:
   m_Father: {fileID: 8111193979268691734}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &871788603637200811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114742
 GameObject:
   m_ObjectHideFlags: 0
@@ -3953,9 +5437,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691734}
+  - component: {fileID: 7176284090657630027}
   m_Layer: 0
   m_Name: NoseTop
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3975,6 +5460,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7176284090657630027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114744
 GameObject:
   m_ObjectHideFlags: 0
@@ -3984,9 +5482,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691736}
+  - component: {fileID: 602162818552392913}
   m_Layer: 0
   m_Name: NoseMiddleAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4005,6 +5504,19 @@ Transform:
   m_Father: {fileID: 8111193979268691738}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &602162818552392913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114746
 GameObject:
   m_ObjectHideFlags: 0
@@ -4014,9 +5526,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691738}
+  - component: {fileID: 1687319020437886484}
   m_Layer: 0
   m_Name: NoseMiddle
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4036,6 +5549,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1687319020437886484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114748
 GameObject:
   m_ObjectHideFlags: 0
@@ -4045,9 +5571,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691740}
+  - component: {fileID: 4234577928259727916}
   m_Layer: 0
   m_Name: NoseBaseAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4067,6 +5594,19 @@ Transform:
   m_Father: {fileID: 8111193979268691742}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4234577928259727916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114750
 GameObject:
   m_ObjectHideFlags: 0
@@ -4076,9 +5616,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691742}
+  - component: {fileID: 6200417078732333068}
   m_Layer: 0
   m_Name: NoseBase
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4098,6 +5639,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6200417078732333068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114752
 GameObject:
   m_ObjectHideFlags: 0
@@ -4107,9 +5661,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691872}
+  - component: {fileID: 2161902725747716546}
   m_Layer: 0
   m_Name: RightShoulderAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4128,6 +5683,19 @@ Transform:
   m_Father: {fileID: 8111193979268691874}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2161902725747716546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114754
 GameObject:
   m_ObjectHideFlags: 0
@@ -4137,9 +5705,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691874}
+  - component: {fileID: 7099719704033214133}
   m_Layer: 0
   m_Name: RightShoulder
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4161,6 +5730,19 @@ Transform:
   m_Father: {fileID: 8111193979268691856}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7099719704033214133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114756
 GameObject:
   m_ObjectHideFlags: 0
@@ -4170,9 +5752,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691876}
+  - component: {fileID: 8859815437581264093}
   m_Layer: 0
   m_Name: RightOuterBreast
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4192,6 +5775,19 @@ Transform:
   m_Father: {fileID: 8111193979268691856}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8859815437581264093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114756}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114758
 GameObject:
   m_ObjectHideFlags: 0
@@ -4201,9 +5797,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691878}
+  - component: {fileID: 1651421907978263963}
   m_Layer: 0
   m_Name: RightNoseAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4222,6 +5819,19 @@ Transform:
   m_Father: {fileID: 8111193979268691880}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1651421907978263963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114758}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114760
 GameObject:
   m_ObjectHideFlags: 0
@@ -4231,9 +5841,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691880}
+  - component: {fileID: 9044954707319749542}
   m_Layer: 0
   m_Name: RightNose
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4253,6 +5864,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9044954707319749542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114762
 GameObject:
   m_ObjectHideFlags: 0
@@ -4262,9 +5886,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691882}
+  - component: {fileID: 4971596406795105080}
   m_Layer: 0
   m_Name: RightLowMaxilarAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4283,6 +5908,19 @@ Transform:
   m_Father: {fileID: 8111193979268691884}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4971596406795105080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114764
 GameObject:
   m_ObjectHideFlags: 0
@@ -4292,9 +5930,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691884}
+  - component: {fileID: 4992051724692387212}
   m_Layer: 0
   m_Name: RightLowMaxilar
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4314,6 +5953,19 @@ Transform:
   m_Father: {fileID: 8111193979268691750}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4992051724692387212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114766
 GameObject:
   m_ObjectHideFlags: 0
@@ -4323,9 +5975,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691886}
+  - component: {fileID: 3613053452814453139}
   m_Layer: 0
   m_Name: RightLowerLidAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4344,6 +5997,19 @@ Transform:
   m_Father: {fileID: 8111193979268691888}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3613053452814453139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114768
 GameObject:
   m_ObjectHideFlags: 0
@@ -4353,9 +6019,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691888}
+  - component: {fileID: 3488813252483811642}
   m_Layer: 0
   m_Name: RightLowerLid
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4375,6 +6042,19 @@ Transform:
   m_Father: {fileID: 8111193979268691716}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3488813252483811642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114770
 GameObject:
   m_ObjectHideFlags: 0
@@ -4384,9 +6064,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691890}
+  - component: {fileID: 5544268298042455386}
   m_Layer: 0
   m_Name: RightLowCheekAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4406,6 +6087,19 @@ Transform:
   m_Father: {fileID: 8111193979268691892}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5544268298042455386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114772
 GameObject:
   m_ObjectHideFlags: 0
@@ -4415,9 +6109,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691892}
+  - component: {fileID: 3244732455265285312}
   m_Layer: 0
   m_Name: RightLowCheek
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4437,6 +6132,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3244732455265285312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114774
 GameObject:
   m_ObjectHideFlags: 0
@@ -4446,9 +6154,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691894}
+  - component: {fileID: 727821144573728888}
   m_Layer: 0
   m_Name: RightLipsSuperiorMiddleAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4467,6 +6176,19 @@ Transform:
   m_Father: {fileID: 8111193979268691896}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &727821144573728888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114776
 GameObject:
   m_ObjectHideFlags: 0
@@ -4476,9 +6198,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691896}
+  - component: {fileID: 1470129418324405972}
   m_Layer: 0
   m_Name: RightLipsSuperiorMiddle
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4498,6 +6221,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1470129418324405972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114776}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114778
 GameObject:
   m_ObjectHideFlags: 0
@@ -4507,9 +6243,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691898}
+  - component: {fileID: 3281969311344914697}
   m_Layer: 0
   m_Name: RightLipsInferiorAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4529,6 +6266,19 @@ Transform:
   m_Father: {fileID: 8111193979268691900}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3281969311344914697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114780
 GameObject:
   m_ObjectHideFlags: 0
@@ -4538,9 +6288,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691900}
+  - component: {fileID: 1076278097833553675}
   m_Layer: 0
   m_Name: RightLipsInferior
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4560,6 +6311,19 @@ Transform:
   m_Father: {fileID: 8111193979268691750}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1076278097833553675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114782
 GameObject:
   m_ObjectHideFlags: 0
@@ -4569,9 +6333,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691902}
+  - component: {fileID: 7291774896206357480}
   m_Layer: 0
   m_Name: RightLipsAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4591,6 +6356,19 @@ Transform:
   m_Father: {fileID: 8111193979268691776}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7291774896206357480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114784
 GameObject:
   m_ObjectHideFlags: 0
@@ -4600,9 +6378,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691776}
+  - component: {fileID: 1494503412329658612}
   m_Layer: 0
   m_Name: RightLips
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4622,6 +6401,19 @@ Transform:
   m_Father: {fileID: 8111193979268691750}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1494503412329658612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114784}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114786
 GameObject:
   m_ObjectHideFlags: 0
@@ -4631,9 +6423,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691778}
+  - component: {fileID: 6910480796736135882}
   m_Layer: 0
   m_Name: RightLegAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4653,6 +6446,19 @@ Transform:
   m_Father: {fileID: 8111193979268691780}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6910480796736135882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114788
 GameObject:
   m_ObjectHideFlags: 0
@@ -4665,9 +6471,10 @@ GameObject:
   - component: {fileID: 8111193979103929458}
   - component: {fileID: 8111193979103929459}
   - component: {fileID: 8111193979103929457}
+  - component: {fileID: 6087322145096402113}
   m_Layer: 0
   m_Name: RightLeg
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4763,6 +6570,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &6087322145096402113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114790
 GameObject:
   m_ObjectHideFlags: 0
@@ -4772,9 +6592,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691782}
+  - component: {fileID: 3301343056345910483}
   m_Layer: 0
   m_Name: RightInnerBreast
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4793,6 +6614,19 @@ Transform:
   m_Father: {fileID: 8111193979268691876}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3301343056345910483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114792
 GameObject:
   m_ObjectHideFlags: 0
@@ -4802,9 +6636,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691784}
+  - component: {fileID: 4124480709712071298}
   m_Layer: 0
   m_Name: RightHandFinger05_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4823,6 +6658,19 @@ Transform:
   m_Father: {fileID: 8111193979268691786}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4124480709712071298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114794
 GameObject:
   m_ObjectHideFlags: 0
@@ -4832,9 +6680,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691786}
+  - component: {fileID: 2516289858450532401}
   m_Layer: 0
   m_Name: RightHandFinger05_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4854,6 +6703,19 @@ Transform:
   m_Father: {fileID: 8111193979268691788}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2516289858450532401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114796
 GameObject:
   m_ObjectHideFlags: 0
@@ -4863,9 +6725,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691788}
+  - component: {fileID: 6014221189504776072}
   m_Layer: 0
   m_Name: RightHandFinger05_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4885,6 +6748,19 @@ Transform:
   m_Father: {fileID: 8111193979268691814}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6014221189504776072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114798
 GameObject:
   m_ObjectHideFlags: 0
@@ -4894,9 +6770,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691790}
+  - component: {fileID: 1946430863632109050}
   m_Layer: 0
   m_Name: RightHandFinger04_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4915,6 +6792,19 @@ Transform:
   m_Father: {fileID: 8111193979268691792}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1946430863632109050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114800
 GameObject:
   m_ObjectHideFlags: 0
@@ -4924,9 +6814,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691792}
+  - component: {fileID: 878817617833228496}
   m_Layer: 0
   m_Name: RightHandFinger04_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4946,6 +6837,19 @@ Transform:
   m_Father: {fileID: 8111193979268691794}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &878817617833228496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114802
 GameObject:
   m_ObjectHideFlags: 0
@@ -4955,9 +6859,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691794}
+  - component: {fileID: 3834392633143448182}
   m_Layer: 0
   m_Name: RightHandFinger04_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4977,6 +6882,19 @@ Transform:
   m_Father: {fileID: 8111193979268691814}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3834392633143448182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114804
 GameObject:
   m_ObjectHideFlags: 0
@@ -4986,9 +6904,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691796}
+  - component: {fileID: 8306478363089498265}
   m_Layer: 0
   m_Name: RightHandFinger03_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5007,6 +6926,19 @@ Transform:
   m_Father: {fileID: 8111193979268691798}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8306478363089498265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114806
 GameObject:
   m_ObjectHideFlags: 0
@@ -5016,9 +6948,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691798}
+  - component: {fileID: 2551879233730199704}
   m_Layer: 0
   m_Name: RightHandFinger03_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5038,6 +6971,19 @@ Transform:
   m_Father: {fileID: 8111193979268691800}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2551879233730199704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114808
 GameObject:
   m_ObjectHideFlags: 0
@@ -5047,9 +6993,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691800}
+  - component: {fileID: 3798914750813136259}
   m_Layer: 0
   m_Name: RightHandFinger03_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5069,6 +7016,19 @@ Transform:
   m_Father: {fileID: 8111193979268691814}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3798914750813136259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114810
 GameObject:
   m_ObjectHideFlags: 0
@@ -5078,9 +7038,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691802}
+  - component: {fileID: 1604799814146578047}
   m_Layer: 0
   m_Name: RightHandFinger02_03
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5099,6 +7060,19 @@ Transform:
   m_Father: {fileID: 8111193979268691804}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1604799814146578047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114812
 GameObject:
   m_ObjectHideFlags: 0
@@ -5108,9 +7082,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691804}
+  - component: {fileID: 8029429196778680418}
   m_Layer: 0
   m_Name: RightHandFinger02_02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5130,6 +7105,19 @@ Transform:
   m_Father: {fileID: 8111193979268691806}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8029429196778680418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114814
 GameObject:
   m_ObjectHideFlags: 0
@@ -5139,9 +7127,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691806}
+  - component: {fileID: 3284986452273107905}
   m_Layer: 0
   m_Name: RightHandFinger02_01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5161,6 +7150,19 @@ Transform:
   m_Father: {fileID: 8111193979268691814}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3284986452273107905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114838
 GameObject:
   m_ObjectHideFlags: 0
@@ -5171,9 +7173,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8111193979268691958}
   - component: {fileID: 8111193979263903636}
+  - component: {fileID: 5991710060818336844}
   m_Layer: 0
   m_Name: M_Base_2_0_Torso
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5366,6 +7369,19 @@ SkinnedMeshRenderer:
     m_Center: {x: 0.076016426, y: 0.0002937317, z: 0.019987106}
     m_Extent: {x: 1.0437479, y: 0.7843252, z: 0.30876076}
   m_DirtyAABB: 0
+--- !u!114 &5991710060818336844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114838}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114842
 GameObject:
   m_ObjectHideFlags: 0
@@ -5375,9 +7391,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691962}
+  - component: {fileID: 2717262932414470024}
   m_Layer: 0
   m_Name: UMA_Male_Rig_001
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5397,6 +7414,19 @@ Transform:
   m_Father: {fileID: 8111193979268691752}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2717262932414470024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114850
 GameObject:
   m_ObjectHideFlags: 0
@@ -5406,9 +7436,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691842}
+  - component: {fileID: 4974192151300085526}
   m_Layer: 0
   m_Name: UpperLipsAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5427,6 +7458,19 @@ Transform:
   m_Father: {fileID: 8111193979268691844}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4974192151300085526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114852
 GameObject:
   m_ObjectHideFlags: 0
@@ -5436,9 +7480,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691844}
+  - component: {fileID: 832640508573118397}
   m_Layer: 0
   m_Name: UpperLips
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5458,6 +7503,19 @@ Transform:
   m_Father: {fileID: 8111193979268691644}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &832640508573118397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114856
 GameObject:
   m_ObjectHideFlags: 0
@@ -5467,9 +7525,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691848}
+  - component: {fileID: 5392424701593599843}
   m_Layer: 0
   m_Name: Tongue02
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5488,6 +7547,19 @@ Transform:
   m_Father: {fileID: 8111193979268691850}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5392424701593599843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114858
 GameObject:
   m_ObjectHideFlags: 0
@@ -5497,9 +7569,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691850}
+  - component: {fileID: 2178906592879974494}
   m_Layer: 0
   m_Name: Tongue01
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5519,6 +7592,19 @@ Transform:
   m_Father: {fileID: 8111193979268691750}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2178906592879974494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114860
 GameObject:
   m_ObjectHideFlags: 0
@@ -5528,9 +7614,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691852}
+  - component: {fileID: 6566460613923520847}
   m_Layer: 0
   m_Name: SpineAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5550,6 +7637,19 @@ Transform:
   m_Father: {fileID: 8111193979268691858}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6566460613923520847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114862
 GameObject:
   m_ObjectHideFlags: 0
@@ -5559,9 +7659,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691854}
+  - component: {fileID: 4266375609549699718}
   m_Layer: 0
   m_Name: Spine1Adjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5581,6 +7682,19 @@ Transform:
   m_Father: {fileID: 8111193979268691856}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4266375609549699718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114864
 GameObject:
   m_ObjectHideFlags: 0
@@ -5590,9 +7704,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691856}
+  - component: {fileID: 2104835687120694919}
   m_Layer: 0
   m_Name: Spine1
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5617,6 +7732,19 @@ Transform:
   m_Father: {fileID: 8111193979268691858}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2104835687120694919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114866
 GameObject:
   m_ObjectHideFlags: 0
@@ -5629,9 +7757,10 @@ GameObject:
   - component: {fileID: 8111193977749024335}
   - component: {fileID: 8111193977749024321}
   - component: {fileID: 8111193977749024320}
+  - component: {fileID: 1283223681985368002}
   m_Layer: 0
   m_Name: Spine
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5726,6 +7855,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &1283223681985368002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114868
 GameObject:
   m_ObjectHideFlags: 0
@@ -5735,9 +7877,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691860}
+  - component: {fileID: 7909867703458410366}
   m_Layer: 0
   m_Name: RightUpperLidAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5756,6 +7899,19 @@ Transform:
   m_Father: {fileID: 8111193979268691862}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7909867703458410366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114870
 GameObject:
   m_ObjectHideFlags: 0
@@ -5765,9 +7921,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691862}
+  - component: {fileID: 2271199671988098562}
   m_Layer: 0
   m_Name: RightUpperLid
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5787,6 +7944,19 @@ Transform:
   m_Father: {fileID: 8111193979268691716}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2271199671988098562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114872
 GameObject:
   m_ObjectHideFlags: 0
@@ -5796,9 +7966,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691864}
+  - component: {fileID: 5158633303143420317}
   m_Layer: 0
   m_Name: RightUpLegAdjust
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5818,6 +7989,19 @@ Transform:
   m_Father: {fileID: 8111193979268691866}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5158633303143420317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114874
 GameObject:
   m_ObjectHideFlags: 0
@@ -5830,9 +8014,10 @@ GameObject:
   - component: {fileID: 8111193977760790878}
   - component: {fileID: 8111193977760790864}
   - component: {fileID: 8111193977760790879}
+  - component: {fileID: 6239423863418732332}
   m_Layer: 0
   m_Name: RightUpLeg
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5929,6 +8114,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &6239423863418732332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114876
 GameObject:
   m_ObjectHideFlags: 0
@@ -5938,9 +8136,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691868}
+  - component: {fileID: 8539400718171757885}
   m_Layer: 0
   m_Name: RightTrapezius
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5959,6 +8158,19 @@ Transform:
   m_Father: {fileID: 8111193979268691874}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8539400718171757885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
 --- !u!1 &8111193979269114878
 GameObject:
   m_ObjectHideFlags: 0
@@ -5968,9 +8180,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8111193979268691870}
+  - component: {fileID: 5222607098761218494}
   m_Layer: 0
   m_Name: RightToeBase
-  m_TagString: Untagged
+  m_TagString: WegMan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5989,3 +8202,16 @@ Transform:
   m_Father: {fileID: 8111193979268691826}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5222607098761218494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111193979269114878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac730243f5e5ea14a97919c0d23c6d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodCollected: []
