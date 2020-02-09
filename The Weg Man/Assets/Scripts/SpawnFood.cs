@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using System;
 
 public class SpawnFood : MonoBehaviour
@@ -44,7 +45,10 @@ public class SpawnFood : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(shoppingList.Count == 0)
+        {
+            SceneManager.LoadScene(4);
+        }
     }
 
     public void UpdateList()
