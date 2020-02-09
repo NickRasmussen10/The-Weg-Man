@@ -18,7 +18,9 @@ public class WegmansInfo : MonoBehaviour
         public string Names;
     }
 
-    private string foodReq = "Strawberry";
+    [SerializeField] public Text foodText;
+
+    private string foodReq = "";
     private string API_KEY = "7fc8d18b16bf434aaa889e6a9e1c89dc";
     private string URL = "";
     private string productNames = "";
@@ -26,8 +28,9 @@ public class WegmansInfo : MonoBehaviour
     string path = "Assets/Scripts/APIResults.txt";
     //public Text responseText;
 
-    public void Request()
+    public void Request(string f)
     {
+        foodReq = f;
         URL = "https://api.wegmans.io/products/search?query=" + foodReq + "&api-version=2018-10-18&subscription-key=" + API_KEY;
         WWW request = new WWW(URL);
         StartCoroutine(Response(request));
@@ -47,7 +50,7 @@ public class WegmansInfo : MonoBehaviour
             int n1 = json.IndexOf("\"name\":\"") + "\"name\":\"".Length;
             int n2 = json.IndexOf("\",\"_links");
             string results = json.Substring(n1, n2 - n1);
-            Debug.Log(results);
+            foodText.text = results;
         }
     }
 }
