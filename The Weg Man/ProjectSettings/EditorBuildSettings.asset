@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/TechnicallySponsoredByWegmans.unity
     guid: 83b72423285c441428e8ba7ebb567a22
   - enabled: 1
-    path: Assets/Scenes/DrakeScene.unity
-    guid: e2541028c29f4bd4195b019e0e32a7cb
+    path: Assets/Scenes/MainScene.unity
+    guid: 2a9f2a11424a8a94190ee675f4f3df67
   m_configObjects: {}
