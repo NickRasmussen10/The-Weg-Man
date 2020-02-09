@@ -7,6 +7,8 @@ public class SpawnFood : MonoBehaviour
 {
     public GameObject[] foodList;
     public GameObject[] spawnLocations;
+    public List<GameObject> shoppingList;
+    private GameObject foodToAddToList;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,16 +26,32 @@ public class SpawnFood : MonoBehaviour
             Debug.Log("For Loop Time");
             if (UnityEngine.Random.Range(0, 100) < 50) {
                 Debug.Log("Spawning food");
-                Instantiate(foodList[UnityEngine.Random.Range(0, foodList.Length)], location.transform.position, location.transform.rotation);
+                foodToAddToList = foodList[UnityEngine.Random.Range(0, foodList.Length)];
+                Instantiate(foodToAddToList, location.transform.position, location.transform.rotation);
+                //Debug.Log("Food to Add to List: " + foodToAddToList);
+                if (shoppingList.Contains(foodToAddToList) == false)    // check if the food is already on the list
+                {
+                    shoppingList.Add(foodToAddToList);  // if not already in the list, add it to the shoppingList
+                }
+          
             }
 
             //int doinYourMom = Random.Range(0,101)
         }
+        PrintList(shoppingList);
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    void PrintList(List<GameObject> foods)
+    {
+        foreach(GameObject f in foods)
+        {
+            Debug.Log("Food List:" + f.name);
+        }
     }
 }
