@@ -11,5 +11,6 @@ public class Timer : MonoBehaviour
     void Update()
     {
         timeLeft -= Time.deltaTime;
+        timerText.text = timeLeft.ToString();
     }
 }
