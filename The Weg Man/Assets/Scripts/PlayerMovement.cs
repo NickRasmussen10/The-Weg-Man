@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField] float speed = 1.0f;
 
     [SerializeField] GameObject pref_ragdoll;
 
